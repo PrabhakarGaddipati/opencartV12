@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 44.803 s <<< FAILURE! - in TestSuite
+testCases.TC_001_AccountRegistration.test_account_Registration  Time elapsed: 15.2 s  <<< FAILURE!
+java.lang.AssertionError: null
+	at testCases.TC_001_AccountRegistration.test_account_Registration(TC_001_AccountRegistration.java:92)
+
+testCases.TC_002_Login.test_Login  Time elapsed: 13.175 s  <<< FAILURE!
+java.lang.AssertionError: null
+	at testCases.TC_002_Login.test_Login(TC_002_Login.java:62)
+
